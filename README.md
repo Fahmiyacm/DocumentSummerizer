@@ -9,7 +9,6 @@ An AI-powered **Business Document Intelligence Platform** that allows users to u
 * 💬 Ask questions about the uploaded document using **RAG**
 * 🔍 Retrieve relevant document chunks using **FAISS**
 * ⚠️ Identify potential business risks and important clauses
-* 🌐 Support for **English, Arabic, and bilingual** responses
 * 📌 Display document sources and page numbers
 
 ## 🛠️ Technologies
